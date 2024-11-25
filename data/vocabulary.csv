@@ -1,0 +1,261 @@
+word,meaning,topic,image_path,audio_path
+father,,Gia đình,data/images/father.jpg,data/audio/father.mp3
+mother,,Gia đình,data/images/mother.jpg,data/audio/mother.mp3
+sister,,Gia đình,data/images/sister.jpg,data/audio/sister.mp3
+brother,,Gia đình,data/images/brother.jpg,data/audio/brother.mp3
+baby,,Gia đình,data/images/baby.jpg,data/audio/baby.mp3
+grandfather,,Gia đình,data/images/grandfather.jpg,data/audio/grandfather.mp3
+grandmother,,Gia đình,data/images/grandmother.jpg,data/audio/grandmother.mp3
+uncle,,Gia đình,data/images/uncle.jpg,data/audio/uncle.mp3
+aunt,,Gia đình,data/images/aunt.jpg,data/audio/aunt.mp3
+cousin,,Gia đình,data/images/cousin.jpg,data/audio/cousin.mp3
+head,,Các bộ phận cơ thể,data/images/head.jpg,data/audio/head.mp3
+face,,Các bộ phận cơ thể,data/images/face.jpg,data/audio/face.mp3
+hair,,Các bộ phận cơ thể,data/images/hair.jpg,data/audio/hair.mp3
+eye,,Các bộ phận cơ thể,data/images/eye.jpg,data/audio/eye.mp3
+ear,,Các bộ phận cơ thể,data/images/ear.jpg,data/audio/ear.mp3
+nose,,Các bộ phận cơ thể,data/images/nose.jpg,data/audio/nose.mp3
+mouth,,Các bộ phận cơ thể,data/images/mouth.jpg,data/audio/mouth.mp3
+teeth,,Các bộ phận cơ thể,data/images/teeth.jpg,data/audio/teeth.mp3
+hand,,Các bộ phận cơ thể,data/images/hand.jpg,data/audio/hand.mp3
+arm,,Các bộ phận cơ thể,data/images/arm.jpg,data/audio/arm.mp3
+leg,,Các bộ phận cơ thể,data/images/leg.jpg,data/audio/leg.mp3
+foot,,Các bộ phận cơ thể,data/images/foot.jpg,data/audio/foot.mp3
+finger,,Các bộ phận cơ thể,data/images/finger.jpg,data/audio/finger.mp3
+toe,,Các bộ phận cơ thể,data/images/toe.jpg,data/audio/toe.mp3
+stomach,,Các bộ phận cơ thể,data/images/stomach.jpg,data/audio/stomach.mp3
+bed,,Đồ vật trong nhà,data/images/bed.jpg,data/audio/bed.mp3
+chair,,Đồ vật trong nhà,data/images/chair.jpg,data/audio/chair.mp3
+table,,Đồ vật trong nhà,data/images/table.jpg,data/audio/table.mp3
+sofa,,Đồ vật trong nhà,data/images/sofa.jpg,data/audio/sofa.mp3
+lamp,,Đồ vật trong nhà,data/images/lamp.jpg,data/audio/lamp.mp3
+door,,Đồ vật trong nhà,data/images/door.jpg,data/audio/door.mp3
+window,,Đồ vật trong nhà,data/images/window.jpg,data/audio/window.mp3
+clock,,Đồ vật trong nhà,data/images/clock.jpg,data/audio/clock.mp3
+pillow,,Đồ vật trong nhà,data/images/pillow.jpg,data/audio/pillow.mp3
+blanket,,Đồ vật trong nhà,data/images/blanket.jpg,data/audio/blanket.mp3
+fridge,,Đồ vật trong nhà,data/images/fridge.jpg,data/audio/fridge.mp3
+cup,,Đồ vật trong nhà,data/images/cup.jpg,data/audio/cup.mp3
+plate,,Đồ vật trong nhà,data/images/plate.jpg,data/audio/plate.mp3
+spoon,,Đồ vật trong nhà,data/images/spoon.jpg,data/audio/spoon.mp3
+fork,,Đồ vật trong nhà,data/images/fork.jpg,data/audio/fork.mp3
+book,,Đồ dùng học tập,data/images/book.jpg,data/audio/book.mp3
+notebook,,Đồ dùng học tập,data/images/notebook.jpg,data/audio/notebook.mp3
+pen,,Đồ dùng học tập,data/images/pen.jpg,data/audio/pen.mp3
+pencil,,Đồ dùng học tập,data/images/pencil.jpg,data/audio/pencil.mp3
+ruler,,Đồ dùng học tập,data/images/ruler.jpg,data/audio/ruler.mp3
+eraser,,Đồ dùng học tập,data/images/eraser.jpg,data/audio/eraser.mp3
+bag,,Đồ dùng học tập,data/images/bag.jpg,data/audio/bag.mp3
+sharpener,,Đồ dùng học tập,data/images/sharpener.jpg,data/audio/sharpener.mp3
+glue,,Đồ dùng học tập,data/images/glue.jpg,data/audio/glue.mp3
+scissors,,Đồ dùng học tập,data/images/scissors.jpg,data/audio/scissors.mp3
+crayon,,Đồ dùng học tập,data/images/crayon.jpg,data/audio/crayon.mp3
+paper,,Đồ dùng học tập,data/images/paper.jpg,data/audio/paper.mp3
+desk,,Đồ dùng học tập,data/images/desk.jpg,data/audio/desk.mp3
+board,,Đồ dùng học tập,data/images/board.jpg,data/audio/board.mp3
+marker,,Đồ dùng học tập,data/images/marker.jpg,data/audio/marker.mp3
+red,,Màu sắc,data/images/red.jpg,data/audio/red.mp3
+blue,,Màu sắc,data/images/blue.jpg,data/audio/blue.mp3
+yellow,,Màu sắc,data/images/yellow.jpg,data/audio/yellow.mp3
+green,,Màu sắc,data/images/green.jpg,data/audio/green.mp3
+orange,,Màu sắc,data/images/orange.jpg,data/audio/orange.mp3
+purple,,Màu sắc,data/images/purple.jpg,data/audio/purple.mp3
+pink,,Màu sắc,data/images/pink.jpg,data/audio/pink.mp3
+black,,Màu sắc,data/images/black.jpg,data/audio/black.mp3
+white,,Màu sắc,data/images/white.jpg,data/audio/white.mp3
+brown,,Màu sắc,data/images/brown.jpg,data/audio/brown.mp3
+gray,,Màu sắc,data/images/gray.jpg,data/audio/gray.mp3
+gold,,Màu sắc,data/images/gold.jpg,data/audio/gold.mp3
+silver,,Màu sắc,data/images/silver.jpg,data/audio/silver.mp3
+cat,,Động vật,data/images/cat.jpg,data/audio/cat.mp3
+dog,,Động vật,data/images/dog.jpg,data/audio/dog.mp3
+bird,,Động vật,data/images/bird.jpg,data/audio/bird.mp3
+fish,,Động vật,data/images/fish.jpg,data/audio/fish.mp3
+cow,,Động vật,data/images/cow.jpg,data/audio/cow.mp3
+pig,,Động vật,data/images/pig.jpg,data/audio/pig.mp3
+horse,,Động vật,data/images/horse.jpg,data/audio/horse.mp3
+sheep,,Động vật,data/images/sheep.jpg,data/audio/sheep.mp3
+duck,,Động vật,data/images/duck.jpg,data/audio/duck.mp3
+chicken,,Động vật,data/images/chicken.jpg,data/audio/chicken.mp3
+lion,,Động vật,data/images/lion.jpg,data/audio/lion.mp3
+tiger,,Động vật,data/images/tiger.jpg,data/audio/tiger.mp3
+elephant,,Động vật,data/images/elephant.jpg,data/audio/elephant.mp3
+monkey,,Động vật,data/images/monkey.jpg,data/audio/monkey.mp3
+bear,,Động vật,data/images/bear.jpg,data/audio/bear.mp3
+snake,,Động vật,data/images/snake.jpg,data/audio/snake.mp3
+rabbit,,Động vật,data/images/rabbit.jpg,data/audio/rabbit.mp3
+frog,,Động vật,data/images/frog.jpg,data/audio/frog.mp3
+giraffe,,Động vật,data/images/giraffe.jpg,data/audio/giraffe.mp3
+zebra,,Động vật,data/images/zebra.jpg,data/audio/zebra.mp3
+one,,Số đếm,data/images/one.jpg,data/audio/one.mp3
+two,,Số đếm,data/images/two.jpg,data/audio/two.mp3
+three,,Số đếm,data/images/three.jpg,data/audio/three.mp3
+four,,Số đếm,data/images/four.jpg,data/audio/four.mp3
+five,,Số đếm,data/images/five.jpg,data/audio/five.mp3
+six,,Số đếm,data/images/six.jpg,data/audio/six.mp3
+seven,,Số đếm,data/images/seven.jpg,data/audio/seven.mp3
+eight,,Số đếm,data/images/eight.jpg,data/audio/eight.mp3
+nine,,Số đếm,data/images/nine.jpg,data/audio/nine.mp3
+ten,,Số đếm,data/images/ten.jpg,data/audio/ten.mp3
+eleven,,Số đếm,data/images/eleven.jpg,data/audio/eleven.mp3
+twelve,,Số đếm,data/images/twelve.jpg,data/audio/twelve.mp3
+thirteen,,Số đếm,data/images/thirteen.jpg,data/audio/thirteen.mp3
+fourteen,,Số đếm,data/images/fourteen.jpg,data/audio/fourteen.mp3
+fifteen,,Số đếm,data/images/fifteen.jpg,data/audio/fifteen.mp3
+sixteen,,Số đếm,data/images/sixteen.jpg,data/audio/sixteen.mp3
+seventeen,,Số đếm,data/images/seventeen.jpg,data/audio/seventeen.mp3
+eighteen,,Số đếm,data/images/eighteen.jpg,data/audio/eighteen.mp3
+nineteen,,Số đếm,data/images/nineteen.jpg,data/audio/nineteen.mp3
+twenty,,Số đếm,data/images/twenty.jpg,data/audio/twenty.mp3
+sun,,Thời tiết,data/images/sun.jpg,data/audio/sun.mp3
+rain,,Thời tiết,data/images/rain.jpg,data/audio/rain.mp3
+wind,,Thời tiết,data/images/wind.jpg,data/audio/wind.mp3
+snow,,Thời tiết,data/images/snow.jpg,data/audio/snow.mp3
+cloud,,Thời tiết,data/images/cloud.jpg,data/audio/cloud.mp3
+rainbow,,Thời tiết,data/images/rainbow.jpg,data/audio/rainbow.mp3
+hot,,Thời tiết,data/images/hot.jpg,data/audio/hot.mp3
+cold,,Thời tiết,data/images/cold.jpg,data/audio/cold.mp3
+warm,,Thời tiết,data/images/warm.jpg,data/audio/warm.mp3
+storm,,Thời tiết,data/images/storm.jpg,data/audio/storm.mp3
+apple,,Thức ăn và đồ uống,data/images/apple.jpg,data/audio/apple.mp3
+banana,,Thức ăn và đồ uống,data/images/banana.jpg,data/audio/banana.mp3
+orange,,Thức ăn và đồ uống,data/images/orange.jpg,data/audio/orange.mp3
+grape,,Thức ăn và đồ uống,data/images/grape.jpg,data/audio/grape.mp3
+watermelon,,Thức ăn và đồ uống,data/images/watermelon.jpg,data/audio/watermelon.mp3
+mango,,Thức ăn và đồ uống,data/images/mango.jpg,data/audio/mango.mp3
+strawberry,,Thức ăn và đồ uống,data/images/strawberry.jpg,data/audio/strawberry.mp3
+rice,,Thức ăn và đồ uống,data/images/rice.jpg,data/audio/rice.mp3
+bread,,Thức ăn và đồ uống,data/images/bread.jpg,data/audio/bread.mp3
+milk,,Thức ăn và đồ uống,data/images/milk.jpg,data/audio/milk.mp3
+water,,Thức ăn và đồ uống,data/images/water.jpg,data/audio/water.mp3
+juice,,Thức ăn và đồ uống,data/images/juice.jpg,data/audio/juice.mp3
+tea,,Thức ăn và đồ uống,data/images/tea.jpg,data/audio/tea.mp3
+egg,,Thức ăn và đồ uống,data/images/egg.jpg,data/audio/egg.mp3
+cheese,,Thức ăn và đồ uống,data/images/cheese.jpg,data/audio/cheese.mp3
+chicken,,Thức ăn và đồ uống,data/images/chicken.jpg,data/audio/chicken.mp3
+fish,,Thức ăn và đồ uống,data/images/fish.jpg,data/audio/fish.mp3
+meat,,Thức ăn và đồ uống,data/images/meat.jpg,data/audio/meat.mp3
+soup,,Thức ăn và đồ uống,data/images/soup.jpg,data/audio/soup.mp3
+ice cream,,Thức ăn và đồ uống,data/images/ice cream.jpg,data/audio/ice cream.mp3
+tree,,Đồ vật ngoài trời,data/images/tree.jpg,data/audio/tree.mp3
+flower,,Đồ vật ngoài trời,data/images/flower.jpg,data/audio/flower.mp3
+grass,,Đồ vật ngoài trời,data/images/grass.jpg,data/audio/grass.mp3
+stone,,Đồ vật ngoài trời,data/images/stone.jpg,data/audio/stone.mp3
+sky,,Đồ vật ngoài trời,data/images/sky.jpg,data/audio/sky.mp3
+star,,Đồ vật ngoài trời,data/images/star.jpg,data/audio/star.mp3
+moon,,Đồ vật ngoài trời,data/images/moon.jpg,data/audio/moon.mp3
+sun,,Đồ vật ngoài trời,data/images/sun.jpg,data/audio/sun.mp3
+river,,Đồ vật ngoài trời,data/images/river.jpg,data/audio/river.mp3
+mountain,,Đồ vật ngoài trời,data/images/mountain.jpg,data/audio/mountain.mp3
+beach,,Đồ vật ngoài trời,data/images/beach.jpg,data/audio/beach.mp3
+sea,,Đồ vật ngoài trời,data/images/sea.jpg,data/audio/sea.mp3
+sand,,Đồ vật ngoài trời,data/images/sand.jpg,data/audio/sand.mp3
+run,,Hành động,data/images/run.jpg,data/audio/run.mp3
+jump,,Hành động,data/images/jump.jpg,data/audio/jump.mp3
+eat,,Hành động,data/images/eat.jpg,data/audio/eat.mp3
+drink,,Hành động,data/images/drink.jpg,data/audio/drink.mp3
+sleep,,Hành động,data/images/sleep.jpg,data/audio/sleep.mp3
+play,,Hành động,data/images/play.jpg,data/audio/play.mp3
+walk,,Hành động,data/images/walk.jpg,data/audio/walk.mp3
+talk,,Hành động,data/images/talk.jpg,data/audio/talk.mp3
+sing,,Hành động,data/images/sing.jpg,data/audio/sing.mp3
+dance,,Hành động,data/images/dance.jpg,data/audio/dance.mp3
+draw,,Hành động,data/images/draw.jpg,data/audio/draw.mp3
+write,,Hành động,data/images/write.jpg,data/audio/write.mp3
+read,,Hành động,data/images/read.jpg,data/audio/read.mp3
+swim,,Hành động,data/images/swim.jpg,data/audio/swim.mp3
+climb,,Hành động,data/images/climb.jpg,data/audio/climb.mp3
+sit,,Hành động,data/images/sit.jpg,data/audio/sit.mp3
+stand,,Hành động,data/images/stand.jpg,data/audio/stand.mp3
+open,,Hành động,data/images/open.jpg,data/audio/open.mp3
+close,,Hành động,data/images/close.jpg,data/audio/close.mp3
+watch,,Hành động,data/images/watch.jpg,data/audio/watch.mp3
+big,,Tính từ mô tả,data/images/big.jpg,data/audio/big.mp3
+small,,Tính từ mô tả,data/images/small.jpg,data/audio/small.mp3
+tall,,Tính từ mô tả,data/images/tall.jpg,data/audio/tall.mp3
+short,,Tính từ mô tả,data/images/short.jpg,data/audio/short.mp3
+happy,,Tính từ mô tả,data/images/happy.jpg,data/audio/happy.mp3
+sad,,Tính từ mô tả,data/images/sad.jpg,data/audio/sad.mp3
+fast,,Tính từ mô tả,data/images/fast.jpg,data/audio/fast.mp3
+slow,,Tính từ mô tả,data/images/slow.jpg,data/audio/slow.mp3
+hot,,Tính từ mô tả,data/images/hot.jpg,data/audio/hot.mp3
+cold,,Tính từ mô tả,data/images/cold.jpg,data/audio/cold.mp3
+good,,Tính từ mô tả,data/images/good.jpg,data/audio/good.mp3
+bad,,Tính từ mô tả,data/images/bad.jpg,data/audio/bad.mp3
+clean,,Tính từ mô tả,data/images/clean.jpg,data/audio/clean.mp3
+dirty,,Tính từ mô tả,data/images/dirty.jpg,data/audio/dirty.mp3
+beautiful,,Tính từ mô tả,data/images/beautiful.jpg,data/audio/beautiful.mp3
+ugly,,Tính từ mô tả,data/images/ugly.jpg,data/audio/ugly.mp3
+shirt,,Quần áo,data/images/shirt.jpg,data/audio/shirt.mp3
+pants,,Quần áo,data/images/pants.jpg,data/audio/pants.mp3
+dress,,Quần áo,data/images/dress.jpg,data/audio/dress.mp3
+skirt,,Quần áo,data/images/skirt.jpg,data/audio/skirt.mp3
+jacket,,Quần áo,data/images/jacket.jpg,data/audio/jacket.mp3
+coat,,Quần áo,data/images/coat.jpg,data/audio/coat.mp3
+sweater,,Quần áo,data/images/sweater.jpg,data/audio/sweater.mp3
+shoes,,Quần áo,data/images/shoes.jpg,data/audio/shoes.mp3
+socks,,Quần áo,data/images/socks.jpg,data/audio/socks.mp3
+hat,,Quần áo,data/images/hat.jpg,data/audio/hat.mp3
+cap,,Quần áo,data/images/cap.jpg,data/audio/cap.mp3
+scarf,,Quần áo,data/images/scarf.jpg,data/audio/scarf.mp3
+gloves,,Quần áo,data/images/gloves.jpg,data/audio/gloves.mp3
+belt,,Quần áo,data/images/belt.jpg,data/audio/belt.mp3
+backpack,,Quần áo,data/images/backpack.jpg,data/audio/backpack.mp3
+car,,Phương tiện giao thông,data/images/car.jpg,data/audio/car.mp3
+bus,,Phương tiện giao thông,data/images/bus.jpg,data/audio/bus.mp3
+train,,Phương tiện giao thông,data/images/train.jpg,data/audio/train.mp3
+plane,,Phương tiện giao thông,data/images/plane.jpg,data/audio/plane.mp3
+bicycle,,Phương tiện giao thông,data/images/bicycle.jpg,data/audio/bicycle.mp3
+boat,,Phương tiện giao thông,data/images/boat.jpg,data/audio/boat.mp3
+motorbike,,Phương tiện giao thông,data/images/motorbike.jpg,data/audio/motorbike.mp3
+truck,,Phương tiện giao thông,data/images/truck.jpg,data/audio/truck.mp3
+taxi,,Phương tiện giao thông,data/images/taxi.jpg,data/audio/taxi.mp3
+ship,,Phương tiện giao thông,data/images/ship.jpg,data/audio/ship.mp3
+Monday,,Các ngày và tháng,data/images/Monday.jpg,data/audio/Monday.mp3
+Tuesday,,Các ngày và tháng,data/images/Tuesday.jpg,data/audio/Tuesday.mp3
+Wednesday,,Các ngày và tháng,data/images/Wednesday.jpg,data/audio/Wednesday.mp3
+Thursday,,Các ngày và tháng,data/images/Thursday.jpg,data/audio/Thursday.mp3
+Friday,,Các ngày và tháng,data/images/Friday.jpg,data/audio/Friday.mp3
+Saturday,,Các ngày và tháng,data/images/Saturday.jpg,data/audio/Saturday.mp3
+Sunday,,Các ngày và tháng,data/images/Sunday.jpg,data/audio/Sunday.mp3
+January,,Các ngày và tháng,data/images/January.jpg,data/audio/January.mp3
+February,,Các ngày và tháng,data/images/February.jpg,data/audio/February.mp3
+March,,Các ngày và tháng,data/images/March.jpg,data/audio/March.mp3
+April,,Các ngày và tháng,data/images/April.jpg,data/audio/April.mp3
+May,,Các ngày và tháng,data/images/May.jpg,data/audio/May.mp3
+June,,Các ngày và tháng,data/images/June.jpg,data/audio/June.mp3
+July,,Các ngày và tháng,data/images/July.jpg,data/audio/July.mp3
+August,,Các ngày và tháng,data/images/August.jpg,data/audio/August.mp3
+September,,Các ngày và tháng,data/images/September.jpg,data/audio/September.mp3
+October,,Các ngày và tháng,data/images/October.jpg,data/audio/October.mp3
+November,,Các ngày và tháng,data/images/November.jpg,data/audio/November.mp3
+December,,Các ngày và tháng,data/images/December.jpg,data/audio/December.mp3
+morning,,Thời gian,data/images/morning.jpg,data/audio/morning.mp3
+afternoon,,Thời gian,data/images/afternoon.jpg,data/audio/afternoon.mp3
+evening,,Thời gian,data/images/evening.jpg,data/audio/evening.mp3
+night,,Thời gian,data/images/night.jpg,data/audio/night.mp3
+today,,Thời gian,data/images/today.jpg,data/audio/today.mp3
+tomorrow,,Thời gian,data/images/tomorrow.jpg,data/audio/tomorrow.mp3
+yesterday,,Thời gian,data/images/yesterday.jpg,data/audio/yesterday.mp3
+hour,,Thời gian,data/images/hour.jpg,data/audio/hour.mp3
+minute,,Thời gian,data/images/minute.jpg,data/audio/minute.mp3
+second,,Thời gian,data/images/second.jpg,data/audio/second.mp3
+home,,Địa điểm,data/images/home.jpg,data/audio/home.mp3
+school,,Địa điểm,data/images/school.jpg,data/audio/school.mp3
+park,,Địa điểm,data/images/park.jpg,data/audio/park.mp3
+shop,,Địa điểm,data/images/shop.jpg,data/audio/shop.mp3
+market,,Địa điểm,data/images/market.jpg,data/audio/market.mp3
+hospital,,Địa điểm,data/images/hospital.jpg,data/audio/hospital.mp3
+zoo,,Địa điểm,data/images/zoo.jpg,data/audio/zoo.mp3
+farm,,Địa điểm,data/images/farm.jpg,data/audio/farm.mp3
+library,,Địa điểm,data/images/library.jpg,data/audio/library.mp3
+playground,,Địa điểm,data/images/playground.jpg,data/audio/playground.mp3
+happy,,Cảm xúc,data/images/happy.jpg,data/audio/happy.mp3
+sad,,Cảm xúc,data/images/sad.jpg,data/audio/sad.mp3
+angry,,Cảm xúc,data/images/angry.jpg,data/audio/angry.mp3
+scared,,Cảm xúc,data/images/scared.jpg,data/audio/scared.mp3
+excited,,Cảm xúc,data/images/excited.jpg,data/audio/excited.mp3
+tired,,Cảm xúc,data/images/tired.jpg,data/audio/tired.mp3
+surprised,,Cảm xúc,data/images/surprised.jpg,data/audio/surprised.mp3
+bored,,Cảm xúc,data/images/bored.jpg,data/audio/bored.mp3
+confused,,Cảm xúc,data/images/confused.jpg,data/audio/confused.mp3
